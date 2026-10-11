@@ -6,3 +6,6 @@ baseline.ipynb
 
 # MacOS
 .DS_Store
+
+#outputs
+outputs/
